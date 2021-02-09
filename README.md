@@ -1,2 +1,3 @@
-# rich-presence-buttons
-A script that allows you to add "buttons" to your rich presence, with links.
+# rich-presence-buttons-setup
+must have the discord app open and have a game playing, customize what you want to make the buttons links be, by opening the index.js file with visual studio code
+enjoy!
